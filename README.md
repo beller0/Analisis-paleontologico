@@ -12,6 +12,10 @@ Este es un dashboard interactivo en Python que permite cargar cualquier archivo 
   - Multiselección para variables categóricas o de texto.
   - Búsqueda por coincidencia de texto para columnas de alta cardinalidad.
 - 📈 **Gráficos Dinámicos:** Generador de gráficos (Barras, Líneas, Dispersión, Histograma, Boxplot) utilizando Plotly Express, actualizándose según el filtro aplicado.
+- <img width="1581" height="769" alt="image" src="https://github.com/user-attachments/assets/f8482758-99da-40fb-9d7d-56ab6722d5c8" />
+  <img width="1523" height="556" alt="image" src="https://github.com/user-attachments/assets/6da138bc-f72b-4eeb-9267-2ba51f5934cf" />
+  <img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/23535ba9-44d9-41ab-9ea4-8142b4c1f810" />
+
 - 🧠 **Análisis de Datos con IA (Gemini):**
   - Generación de resúmenes de datos, patrones de tendencias, alertas de anomalías y recomendaciones estratégicas en tiempo real.
   - Permite ingresar preguntas o instrucciones específicas al modelo de lenguaje (ej. *"¿Por qué bajaron las ventas en marzo?"*).
