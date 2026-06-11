@@ -1,4 +1,4 @@
-# DataSight - Dashboard de Análisis de CSV con Streamlit y Gemini IA
+# DataSight - Dashboard de Análisis de CSV con Streamlit, k-means y Gemini IA
 
 Este es un dashboard interactivo en Python que permite cargar cualquier archivo `.csv`, explorar los datos, aplicar filtros dinámicos (según el tipo de dato de cada columna), generar gráficos interactivos en tiempo real y **realizar análisis automáticos con Inteligencia Artificial utilizando Gemini LLM**.
 
